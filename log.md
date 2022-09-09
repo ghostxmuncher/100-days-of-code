@@ -1,22 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 5, 2022 
+#####(delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on HTML-Cat photo app on freecodecamp.org
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** HTML is not as bad as I thought it would be, it's light and easy. <img> and <input> tags are self closing
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-68)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: September 6, 2022 (Example 2)
+#####(delete me or comment me out)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started the foundations course for the Odin Project. Found a couple good bookmarks for typing practice and learning how to learn. There's some good articles on how to ask good questions. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+***Knowledge Check***: Name at least one thing your question should include 1) Code/Context. Describe the XY problem 2) It's where the questioner asks about how to reach their solution (Y) even though their real problem/question lies with (X). Ask X first, worry about Y later. Describe 3 attributes of a help vampire 3) They are usually male lol, ask really vague broad questions, and prey on good natured helpers to do the work for them, they're defensive as well. 
+
+**Thoughts**: I feel confident going through the foundations course whilst already having dipped my toes in a little bit previously. I'm excited and motivated to stay consist and build some cool shit!
+
+**Link(s) to work**: https://www.theodinproject.com/dashboard
 
 
 ### Day 1: June 27, Monday
