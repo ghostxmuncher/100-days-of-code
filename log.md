@@ -22,12 +22,18 @@
 **Link(s) to work**: https://www.theodinproject.com/dashboard
 
 
-### Day 1: June 27, Monday
+### Day 2: September 9, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Skipped day 3/4 cause I was tired and went running. Today I started the coffee menu project on Freecodecamp. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** HTML is fun and easy so far.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: https://www.freecodecamp.org/learn/2022/responsive-web-design
+
+### Day 3: September 11, 2022
+
+**Today's Progress**: Did some typing practice--need work on q,y,u,z,x. Finished the coffee menu HTML/CSS project on Freecodecamp. 
+
+**Thoughts** Html is fun to bust out. Its light easy programming.
+
+**Link(s) to work**: https://www.typing.com/student/lesson/371/q-y-and-p-keys ; https://www.freecodecamp.org/learn/2022/responsive-web-design
