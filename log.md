@@ -37,3 +37,7 @@
 **Thoughts** Html is fun to bust out. Its light easy programming.
 
 **Link(s) to work**: https://www.typing.com/student/lesson/371/q-y-and-p-keys ; https://www.freecodecamp.org/learn/2022/responsive-web-design
+
+### Day 4: September 24, 2022
+
+**Today's Progress**: Logs are not for me. I've done some coding, but not enough. Oh well, let's git after it. 
